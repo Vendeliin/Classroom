@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qlrrreLSdQdBBRv5k/74a4qn68KAJSv0LbQePV/K3y3IiwXrZspNSs4A7KOPnpII89CHaVpL5ZN1sb5m3LCzgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vendelin Kukla\\source\\repos\\OOP\\OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vendelin Kukla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vendelin Kukla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vendelin Kukla\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
